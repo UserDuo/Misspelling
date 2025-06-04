@@ -1,0 +1,2110 @@
+[
+    {
+        "word": "abjectly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "abortively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "aboveboard",
+        "pos": "Adverb"
+    },
+    {
+        "word": "abstemiously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "abusively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "accusingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "adaxially",
+        "pos": "Adverb"
+    },
+    {
+        "word": "adjectivally",
+        "pos": "Adverb"
+    },
+    {
+        "word": "adjectively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "adulterously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "affectingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "aggravatingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "agonizingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "ahorseback",
+        "pos": "Adverb"
+    },
+    {
+        "word": "alliteratively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "amateurishly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "amusingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "anachronistically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "anarchically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "annoyingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "antagonistically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "antithetically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "apathetically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "argumentatively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "assertively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "astutely",
+        "pos": "Adverb"
+    },
+    {
+        "word": "attributively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "audaciously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "avariciously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "axiomatically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "bacterially",
+        "pos": "Adverb"
+    },
+    {
+        "word": "banefully",
+        "pos": "Adverb"
+    },
+    {
+        "word": "bannerlike",
+        "pos": "Adverb"
+    },
+    {
+        "word": "banteringly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "barefacedly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "bashfully",
+        "pos": "Adverb"
+    },
+    {
+        "word": "becomingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "benevolently",
+        "pos": "Adverb"
+    },
+    {
+        "word": "benignantly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "beseechingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "bloodlessly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "boastfully",
+        "pos": "Adverb"
+    },
+    {
+        "word": "bombastically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "boorishly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "bounteously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "boyishly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "brazenly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "broadwise",
+        "pos": "Adverb"
+    },
+    {
+        "word": "cajolingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "calculatingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "cantankerously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "captivatingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "centennially",
+        "pos": "Adverb"
+    },
+    {
+        "word": "cheerlessly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "chintzily",
+        "pos": "Adverb"
+    },
+    {
+        "word": "chirpily",
+        "pos": "Adverb"
+    },
+    {
+        "word": "chivalrously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "churlishly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "cliquishly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "coaxingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "commensally",
+        "pos": "Adverb"
+    },
+    {
+        "word": "complainingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "composedly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "conceitedly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "concernedly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "confidingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "confoundedly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "confusingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "contagiously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "contradictorily",
+        "pos": "Adverb"
+    },
+    {
+        "word": "contritely",
+        "pos": "Adverb"
+    },
+    {
+        "word": "contumaciously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "contumeliously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "conversationally",
+        "pos": "Adverb"
+    },
+    {
+        "word": "convivially",
+        "pos": "Adverb"
+    },
+    {
+        "word": "counteractively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "counterintuitively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "creakily",
+        "pos": "Adverb"
+    },
+    {
+        "word": "crushingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "currishly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "cursively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "cussedly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "cuttingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "cytophotometrically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "cytoplasmically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "dashingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "dauntlessly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "dazedly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "deceivingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "decipherably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "decoratively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "decorously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "defencelessly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "defenselessly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "dejectedly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "delightedly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "demandingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "demeaningly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "denominationally",
+        "pos": "Adverb"
+    },
+    {
+        "word": "dependably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "depressingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "derisorily",
+        "pos": "Adverb"
+    },
+    {
+        "word": "desolately",
+        "pos": "Adverb"
+    },
+    {
+        "word": "despicably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "despondently",
+        "pos": "Adverb"
+    },
+    {
+        "word": "destructively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "dictatorially",
+        "pos": "Adverb"
+    },
+    {
+        "word": "disappointedly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "disbelievingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "disconcertingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "disconsolately",
+        "pos": "Adverb"
+    },
+    {
+        "word": "discontentedly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "discordantly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "discreditably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "disjointedly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "displeasingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "disputatiously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "disquietingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "disregardless",
+        "pos": "Adverb"
+    },
+    {
+        "word": "disreputably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "disruptively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "distractedly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "distressfully",
+        "pos": "Adverb"
+    },
+    {
+        "word": "distributively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "doctrinally",
+        "pos": "Adverb"
+    },
+    {
+        "word": "domineeringly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "dottily",
+        "pos": "Adverb"
+    },
+    {
+        "word": "downriver",
+        "pos": "Adverb"
+    },
+    {
+        "word": "draggingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "drunkenly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "ebulliently",
+        "pos": "Adverb"
+    },
+    {
+        "word": "efficaciously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "effusively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "emulously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "enchantingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "endearingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "enduringly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "engagingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "enjoyably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "enquiringly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "enthrallingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "entreatingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "eruditely",
+        "pos": "Adverb"
+    },
+    {
+        "word": "eschatologically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "evasively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "exasperatingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "excitingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "expansively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "extemporarily",
+        "pos": "Adverb"
+    },
+    {
+        "word": "extortionately",
+        "pos": "Adverb"
+    },
+    {
+        "word": "exultingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "fearsomely",
+        "pos": "Adverb"
+    },
+    {
+        "word": "feetfirst",
+        "pos": "Adverb"
+    },
+    {
+        "word": "ferociously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "flirtatiously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "floridly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "forevermore",
+        "pos": "Adverb"
+    },
+    {
+        "word": "forgivingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "formidably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "freakishly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "frontwards",
+        "pos": "Adverb"
+    },
+    {
+        "word": "garrulously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "geothermally",
+        "pos": "Adverb"
+    },
+    {
+        "word": "girlishly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "glacially",
+        "pos": "Adverb"
+    },
+    {
+        "word": "gluttonously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "gratifyingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "gregariously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "grouchily",
+        "pos": "Adverb"
+    },
+    {
+        "word": "gruesomely",
+        "pos": "Adverb"
+    },
+    {
+        "word": "guardedly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "gutturally",
+        "pos": "Adverb"
+    },
+    {
+        "word": "haggardly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "hazardously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "heavenwardly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "heavenwards",
+        "pos": "Adverb"
+    },
+    {
+        "word": "hebdomadally",
+        "pos": "Adverb"
+    },
+    {
+        "word": "hellishly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "hieroglyphically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "hinderingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "horrifyingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "horticulturally",
+        "pos": "Adverb"
+    },
+    {
+        "word": "humiliatingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "hypothalamically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "idiotically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "idolatrously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "illegibly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "immaturely",
+        "pos": "Adverb"
+    },
+    {
+        "word": "impassively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "impenitently",
+        "pos": "Adverb"
+    },
+    {
+        "word": "imploringly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "impolitely",
+        "pos": "Adverb"
+    },
+    {
+        "word": "imposingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "impracticably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "impregnably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "inarticulately",
+        "pos": "Adverb"
+    },
+    {
+        "word": "inaugurally",
+        "pos": "Adverb"
+    },
+    {
+        "word": "incestuously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "incisively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "incriminatingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "indulgently",
+        "pos": "Adverb"
+    },
+    {
+        "word": "ineffably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "ineluctably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "inexhaustibly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "inexpediently",
+        "pos": "Adverb"
+    },
+    {
+        "word": "influentially",
+        "pos": "Adverb"
+    },
+    {
+        "word": "informatively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "ingratiatingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "inscriptively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "inscrutably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "insecticidally",
+        "pos": "Adverb"
+    },
+    {
+        "word": "insensately",
+        "pos": "Adverb"
+    },
+    {
+        "word": "insinuatingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "insipidly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "inspirationally",
+        "pos": "Adverb"
+    },
+    {
+        "word": "insuperably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "intolerantly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "intransitively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "invincibly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "irrelevantly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "irresolutely",
+        "pos": "Adverb"
+    },
+    {
+        "word": "irritably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "irritatingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "jeeringly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "jejunely",
+        "pos": "Adverb"
+    },
+    {
+        "word": "jestingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "journalistically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "jovially",
+        "pos": "Adverb"
+    },
+    {
+        "word": "joylessly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "jurisprudentially",
+        "pos": "Adverb"
+    },
+    {
+        "word": "justifiedly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "killingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "knavishly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "langsyne",
+        "pos": "Adverb"
+    },
+    {
+        "word": "languidly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "legislatively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "lethargically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "lexically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "lifelessly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "lightsomely",
+        "pos": "Adverb"
+    },
+    {
+        "word": "limnologically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "loquaciously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "lugubriously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "luridly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "magisterially",
+        "pos": "Adverb"
+    },
+    {
+        "word": "magniloquently",
+        "pos": "Adverb"
+    },
+    {
+        "word": "maladroitly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "malevolently",
+        "pos": "Adverb"
+    },
+    {
+        "word": "manipulatively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "masochistically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "materialistically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "mawkishly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "meanderingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "meanspiritedly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "mellowingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "melodramatically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "memorably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "mendaciously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "meretriciously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "mincingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "mindlessly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "mistrustfully",
+        "pos": "Adverb"
+    },
+    {
+        "word": "monolingually",
+        "pos": "Adverb"
+    },
+    {
+        "word": "monosyllabically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "mordaciously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "mulishly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "mundanely",
+        "pos": "Adverb"
+    },
+    {
+        "word": "murderously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "musicologically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "nebulously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "nefariously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "nervelessly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "noncompetitively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "noncomprehensively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "nonlexically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "nonviolently",
+        "pos": "Adverb"
+    },
+    {
+        "word": "northeastwardly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "obdurately",
+        "pos": "Adverb"
+    },
+    {
+        "word": "objectionably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "obligatorily",
+        "pos": "Adverb"
+    },
+    {
+        "word": "obnoxiously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "observantly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "observingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "obsessionally",
+        "pos": "Adverb"
+    },
+    {
+        "word": "obstreperously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "opaquely",
+        "pos": "Adverb"
+    },
+    {
+        "word": "ornamentally",
+        "pos": "Adverb"
+    },
+    {
+        "word": "outspokenly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "overbearingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "overpoweringly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "pacifistically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "painlessly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "pardonably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "parochially",
+        "pos": "Adverb"
+    },
+    {
+        "word": "patronisingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "patronizingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "pellucidly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "penetratively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "penitentially",
+        "pos": "Adverb"
+    },
+    {
+        "word": "penitently",
+        "pos": "Adverb"
+    },
+    {
+        "word": "penuriously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "perniciously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "perplexedly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "pettishly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "philatelically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "placatingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "ploddingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "pointlessly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "poisonously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "polemically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "polyphonically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "polysyllabically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "pornographically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "powerlessly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "precociously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "pretentiously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "primitively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "problematically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "professorially",
+        "pos": "Adverb"
+    },
+    {
+        "word": "profitlessly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "profligately",
+        "pos": "Adverb"
+    },
+    {
+        "word": "promisingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "propitiously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "protectively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "protractedly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "provincially",
+        "pos": "Adverb"
+    },
+    {
+        "word": "provocatively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "provokingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "prudishly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "pruriently",
+        "pos": "Adverb"
+    },
+    {
+        "word": "puckishly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "pugnaciously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "pungently",
+        "pos": "Adverb"
+    },
+    {
+        "word": "punishingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "punitively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "quaveringly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "quixotically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "raffishly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "rakishly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "ramblingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "rampantly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "rapaciously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "raucously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "ravishingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "refreshfully",
+        "pos": "Adverb"
+    },
+    {
+        "word": "reminiscently",
+        "pos": "Adverb"
+    },
+    {
+        "word": "remorsefully",
+        "pos": "Adverb"
+    },
+    {
+        "word": "repellently",
+        "pos": "Adverb"
+    },
+    {
+        "word": "repellingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "reprehensibly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "reprovingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "repulsively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "resignedly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "resoundingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "resourcefully",
+        "pos": "Adverb"
+    },
+    {
+        "word": "retentively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "revoltingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "rewardingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "rhapsodically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "rollickingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "sagaciously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "salaciously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "sanctimoniously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "sapiently",
+        "pos": "Adverb"
+    },
+    {
+        "word": "satisfyingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "scathingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "scholastically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "scoffingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "screamingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "searchingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "semiweekly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "sententiously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "shambolically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "shapelessly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "shoddily",
+        "pos": "Adverb"
+    },
+    {
+        "word": "shrewishly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "shudderingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "sickeningly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "sidesplittingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "sidewards",
+        "pos": "Adverb"
+    },
+    {
+        "word": "skittishly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "skywards",
+        "pos": "Adverb"
+    },
+    {
+        "word": "slantingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "slantways",
+        "pos": "Adverb"
+    },
+    {
+        "word": "slapdash",
+        "pos": "Adverb"
+    },
+    {
+        "word": "sleeplessly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "slopingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "slouchingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "smashingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "smuttily",
+        "pos": "Adverb"
+    },
+    {
+        "word": "snobbishly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "sobbingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "sociobiologically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "socioeconomically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "sociolinguistically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "solitarily",
+        "pos": "Adverb"
+    },
+    {
+        "word": "somnolently",
+        "pos": "Adverb"
+    },
+    {
+        "word": "sonorously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "sordidly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "sottishly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "soughingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "soundlessly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "spacewards",
+        "pos": "Adverb"
+    },
+    {
+        "word": "spaciously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "spasmodically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "speculatively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "speechlessly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "sportively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "spotlessly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "standoffishly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "stiltedly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "stirringly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "stodgily",
+        "pos": "Adverb"
+    },
+    {
+        "word": "stridently",
+        "pos": "Adverb"
+    },
+    {
+        "word": "stylishly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "subserviently",
+        "pos": "Adverb"
+    },
+    {
+        "word": "suggestively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "sultrily",
+        "pos": "Adverb"
+    },
+    {
+        "word": "superlatively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "syllabically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "tactlessly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "talkatively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "tantalizingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "tastelessly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "tediously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "telegraphically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "temptingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "tendentiously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "tiresomely",
+        "pos": "Adverb"
+    },
+    {
+        "word": "tolerantly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "tonelessly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "touchingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "transitorily",
+        "pos": "Adverb"
+    },
+    {
+        "word": "trenchantly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "truculently",
+        "pos": "Adverb"
+    },
+    {
+        "word": "turbulently",
+        "pos": "Adverb"
+    },
+    {
+        "word": "tutorially",
+        "pos": "Adverb"
+    },
+    {
+        "word": "twirlingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "ulteriorly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unachievably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unappealingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unassertively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unassumingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unattainably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unattractively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unbecomingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unbelievingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unblinkingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unblushingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "uncharacteristically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unchivalrously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "uncomplainingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "undemocratically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "underhandedly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "undiplomatically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unemotionally",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unenergetically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unethically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "uneventfully",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unexcitingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unfashionably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unforgivingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "ungracefully",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unhelpfully",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unhurriedly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unimaginatively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unimpeachably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unimpressively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "uninformatively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "uninstructively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "uninterestingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "uninvitedly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unmanfully",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unmelodiously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unmemorably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unmusically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unpalatably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unpardonably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unpatriotically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unpretentiously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unproductively",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unpropitiously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unreadably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unreasoningly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unrecognizably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unreliably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unrepentantly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unreproducibly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unrighteously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unscientifically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unsentimentally",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unsmilingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unsportingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unsuspectingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unsympathetically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unsystematically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unthinkably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unthinkingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "untruthfully",
+        "pos": "Adverb"
+    },
+    {
+        "word": "untypically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "ununderstandably",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unwantedly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "unwontedly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "uxoriously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "vanishingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "vauntingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "vengefully",
+        "pos": "Adverb"
+    },
+    {
+        "word": "venomously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "verbosely",
+        "pos": "Adverb"
+    },
+    {
+        "word": "vexatiously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "virulently",
+        "pos": "Adverb"
+    },
+    {
+        "word": "viscerally",
+        "pos": "Adverb"
+    },
+    {
+        "word": "viscidly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "vitriolically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "vivaciously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "volitionally",
+        "pos": "Adverb"
+    },
+    {
+        "word": "voraciously",
+        "pos": "Adverb"
+    },
+    {
+        "word": "voyeuristically",
+        "pos": "Adverb"
+    },
+    {
+        "word": "waggishly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "wheezily",
+        "pos": "Adverb"
+    },
+    {
+        "word": "wheezingly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "witheringly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "worthlessly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "wrongheadedly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "yearningly",
+        "pos": "Adverb"
+    },
+    {
+        "word": "youthfully",
+        "pos": "Adverb"
+    },
+    {
+        "word": "zestfully",
+        "pos": "Adverb"
+    }
+]
